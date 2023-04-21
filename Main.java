@@ -45,13 +45,4 @@ public class Main {
         }
         System.out.println(uniqueValues);
     }
-    /*public static void getUniqueValuesFromStringArray(String string) {
-        StringBuilder uniqueChars = new StringBuilder();
-        for (int i = 0; i < string.length(); i++) {
-            if (uniqueChars.toString().indexOf(string.charAt(i)) == -1) {
-                uniqueChars.append(string.charAt(i)).append("\n");
-            }
-        }
-        System.out.println(uniqueChars);
-    }*/
 }
