@@ -1,3 +1,0 @@
-https://www.javatpoint.com/array-in-java#:~:text=Java%20array%20is%20an%20object,where%20we%20store%20similar%20elements.          // Java arrays
-
-https://www.tutorialspoint.com/java/java_collections.htm                                                                           // Java-Collections Framework
